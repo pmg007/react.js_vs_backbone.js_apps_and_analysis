@@ -6,3 +6,16 @@
   - The access token for the API usage has been hidden from public.
   - Install necessary packages as requried in the script.
   - Enter the public GitHub URL of the repository to be explored for obtaining metrics after running the script as "python3 git_script.py" on the terminal.
+2. selenium_script_react_chrome.py
+  - Please use Python 3.x for running the script
+  - Install necessary packages as requried in the script.
+  - Download chromedriver from [here](https://sites.google.com/a/chromium.org/chromedriver/downloads) and place it desired location which then need to be used in the script.
+  - Migrate to the location of the react app and then simply start a server on 8000 by simply using "python -m SimpleHTTPServer 8000" (please note that for this server use Python 2.x).
+  - Simply run the script as "python3 selenium_script_react_chrome.py"
+3. selenium_script_backbone_chrome.py
+  - Please use Python 3.x for running the script
+  - Install necessary packages as requried in the script.
+  - Download chromedriver from [here](https://sites.google.com/a/chromium.org/chromedriver/downloads) and place it desired location which then need to be used in the script.
+  - Migrate to the location of the react app and then simply start a server on 8001 by simply typing "python -m SimpleHTTPServer 8001" (please note that for this server use Python 2.x).
+  - Simply run the script as "python3 selenium_script_react_chrome.py"
+
