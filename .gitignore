@@ -1,0 +1,5 @@
+/scripts/__pycache__
+/.vscode
+.vscode
+/scripts/config.py
+/scripts/geckodriver.log
