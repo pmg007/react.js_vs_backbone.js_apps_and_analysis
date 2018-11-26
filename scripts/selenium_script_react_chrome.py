@@ -7,11 +7,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.common.keys import Keys
 from selenium.webdriver.firefox.webdriver import FirefoxProfile
 chromedriver = "/usr/local/bin/chromedriver"
-firefoxdriver = "/usr/local/bin/geckodriver"
 driver = webdriver.Chrome(chromedriver)
 
-## to use when checking with Firefox
-# driver = webdriver.Firefox(executable_path = firefoxdriver)
 
 base_url = "http://localhost:8000"
 driver.get(base_url)
