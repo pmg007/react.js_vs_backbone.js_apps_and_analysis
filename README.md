@@ -1,5 +1,9 @@
 # se_project
 
+### Goal
+The goal is to compare the two libraries, React.js and Backbone.js, based on various metrics and determine appropriate usability and applicability of each.
+
+### Repo contents
 This repository contains two apps in the todomvc folder, scripts in the scripts folder and results for performance tests, community support, jmeter, plato, sonarqube.
 
 
