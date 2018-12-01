@@ -11,7 +11,7 @@ This repository contains two apps in the todomvc folder, scripts in the scripts 
  
  React, Backbone, JS, Python2.x, Python 3.x, Selenium, Chrome dev Tools, JMeter, plato, SonarQube
 
-### todomvc app
+### todo apps
 1. React app
   - Navigate to the react folder and then open terminal and type 'python -m SimpleHTTPServer 8000' (using Python 2)
 2. Backbone app
