@@ -1,5 +1,22 @@
 # se_project
 
+### Goal
+The goal is to compare the two libraries, React.js and Backbone.js, based on various metrics and determine appropriate usability and applicability of each.
+
+### Repo contents
+This repository contains two apps in the todomvc folder, scripts in the scripts folder and results for performance tests, community support, jmeter, plato, sonarqube.
+
+
+### Tools/technologies used
+ 
+ React, Backbone, JS, Python2.x, Python 3.x, Selenium, Chrome dev Tools, JMeter, plato, SonarQube
+
+### todomvc app
+1. React app
+  - Navigate to the react folder and then open terminal and type 'python -m SimpleHTTPServer 8000' (using Python 2)
+2. Backbone app
+  - Navigate to the backbone folder and then open terminal and type  'python -m SimpleHTTPServer 8001' (using Python 2)
+  
 ### Information regarding scripts
 1. git_script.py
   - Please use Python 3.x.
