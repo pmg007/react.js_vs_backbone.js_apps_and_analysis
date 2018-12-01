@@ -1,4 +1,4 @@
-# se_project
+# CSC 510 Project - React.js vs Backbone.js [s_idukut]
 
 ### Goal
 The goal is to compare the two libraries, React.js and Backbone.js, based on various metrics and determine appropriate usability and applicability of each.
