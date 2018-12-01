@@ -1,0 +1,3 @@
+sonar-scanner -Dsonar.projectKey={project-name} -Dsonar.sources=.
+
+#to be run at root of the directory to be analyzed.
